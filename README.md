@@ -2,7 +2,7 @@
 
 **TypeScript Basics** : [view Code here](./typescript-basics.ts)
 
-**Topis Covered:**
+**Topics Covered:**
 
     - Type Annotations: Variables
 
@@ -10,7 +10,7 @@
 
     - Interface & Types
 
-    - Union & Intersaction (Complex and many type)
+    - Union & Intersection (Complex and many types)
 
     - Generics
 
